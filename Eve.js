@@ -1,4 +1,4 @@
-let num =10;
+let num =230;
 
 if(num%2==0){
 console.log("Even");
